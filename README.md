@@ -1,4 +1,4 @@
-# 📩 Portfolio Mailer Backend
+# 📩 Mailer Backend
 
 A simple **Node.js + Express + Nodemailer** backend that powers the contact form on my portfolio website.  
 It allows visitors to send me a message via a web form, and I receive it directly in my email inbox.
